@@ -3,6 +3,9 @@
   <head>
     TIC - Devoir 1
     <meta name="Heidi Garcia" content="MATIM/TIC">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
   </head>
   <body>
     <h1>Bienvenue</h1>
