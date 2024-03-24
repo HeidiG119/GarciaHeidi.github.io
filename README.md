@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>TIC - Devoir 1</title>
+    TIC - Devoir 1
     <meta name="Heidi Garcia" content="MATIM/TIC">
   </head>
   <body>
